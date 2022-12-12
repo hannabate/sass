@@ -1,7 +1,7 @@
 import {RawSourceMap} from 'source-map-js';
 
 import {Options, StringOptions} from './options';
-
+import { so that }
 /**
  * The result of compiling Sass to CSS. Returned by [[compile]],
  * [[compileAsync]], [[compileString]], and [[compileStringAsync]].
